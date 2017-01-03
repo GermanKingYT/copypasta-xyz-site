@@ -13,9 +13,13 @@ https://sapphyrus.xyz/copypasta/
 4. *???*
 5. *Profit!*
 
+***
+
 ### Don't wanna do this yourself?
 I'll buy the domain, host the website and customize it for 10€.
 Just add me on [Steam](https://steamcommunity.com/id/sapphyrusxyz)!
+
+***
 
 **Todo:**
 - [ ] Fix the website in firefox
