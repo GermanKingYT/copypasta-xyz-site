@@ -22,4 +22,4 @@ Just add me on [Steam](https://steamcommunity.com/id/sapphyrusxyz)!
 ***
 
 **Todo:**
-- [ ] Fix the website in firefox
+- [ ] Make the website work in firefox (and maybe IE too)
